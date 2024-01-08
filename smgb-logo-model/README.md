@@ -1,1 +1,0 @@
-# smgb-ai-model
