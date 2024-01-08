@@ -1,0 +1,1 @@
+# smgb-logo-model
